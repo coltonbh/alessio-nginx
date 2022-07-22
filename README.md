@@ -100,7 +100,7 @@ sudo rm -rf shared_files
 
 ### Deployment
 
-Deploy this service behind a [traefik](https://traefik.io/) reverse proxy that provides TLS, http -> https redirects, etc. for a secure production deployment. See [Docker Swarm Rocks](https://dockerswarm.rocks/) for a great overview.
+Deploy this service behind a [traefik](https://traefik.io/) reverse proxy that provides `TLS`, `http` -> `https` redirects, etc. for a secure production deployment. See [Docker Swarm Rocks](https://dockerswarm.rocks/) for a great overview.
 
 ## Further Research
 
